@@ -106,7 +106,7 @@ a {
 }
 
 .two-columns__paragraph {
-  margin-bottom: 30pxx;
+  margin-bottom: 30px;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -226,10 +226,11 @@ a {
 .section-title_theme_dark {
   text-align: center;
   width: 60%;
+  margin: 0 auto;
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
-  margin: 0 auto;
+
 }
 
 .section-subtitle_theme_dark {
