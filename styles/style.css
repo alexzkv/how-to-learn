@@ -310,11 +310,14 @@
   width: 90%;
 }
 
+.footer__column {
+  display: flex;
+  flex-direction: column;
+}
+
 .footer__column_content_copyright {
   flex-basis: 711px;
-  display: flex;
   justify-content: space-between;
-  flex-direction: column;
 }
 
 .logo_place_footer {
@@ -358,6 +361,8 @@
 
 .footer__social-icon {
   margin-right: 10px;
+  height: 16px;
+  width: 16px;
 }
 
 
