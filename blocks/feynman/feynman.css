@@ -1,0 +1,9 @@
+.feynman {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 890px;
+  background: url(../../images/sprint1/feynman.png) #f2f2f2 no-repeat bottom left;
+  background-size: 867px 637px;
+  color: #000000;
+}
