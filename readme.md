@@ -4,7 +4,7 @@
 Всё это стилизовано эффектными картинками и анимацией.
 При проектировании сайта были использованы _флексбокс-вёрстка, позиционирование элементов, iframe, анимация_, а также _методология БЭМ_.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **[Ссылка на проект](https://alexzkv.github.io/how-to-learn/)**
 
